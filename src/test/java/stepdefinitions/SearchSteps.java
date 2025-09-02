@@ -23,11 +23,11 @@ public class SearchSteps {
         driver.get("https://www.zomato.com/india");
         Thread.sleep(2000);
        
-        
+        /*
         WebElement Login_Button = driver.findElement(By.xpath("//a[normalize-space()='Log in']"));
         Login_Button.click();
         Thread.sleep(2000);
-        
+        */
 	}
 	
 	
